@@ -21,6 +21,8 @@
     //write your code here to see the changes and then commit-push
     
     self.view.backgroundColor = [UIColor redColor];
+    
+    //doing changes on 24th nov
 }
 
 - (void)didReceiveMemoryWarning {
